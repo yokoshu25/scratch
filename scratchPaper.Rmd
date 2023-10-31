@@ -1,0 +1,14 @@
+---
+title: "scratch"
+author: "yokoshu25"
+date: "2023-10-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+lstCsv = list.files(pattern = '.csv')
+for (i in lstCsv) {
+  dfTemp = read.csv(i)
+  assign(gsub('.csv','',i),dfTemp)
+}
+```
