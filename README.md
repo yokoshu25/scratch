@@ -14,8 +14,6 @@ Welcome to the GitHub repository where data analysis meets efficiency and elegan
 - Comprehensive correlation analysis tools with visualization capabilities.
 - Advanced plotting techniques for categorical data, making complex data easily interpretable.
 
-Whether you're starting in data analysis or looking to refine your skills, this repository is your go-to resource. Explore, experiment, and enhance your data storytelling with our R code collection!
-
 ---
 
 # データ分析のためのRコード：基本から可視化まで
@@ -32,4 +30,3 @@ Whether you're starting in data analysis or looking to refine your skills, this 
 - 可視化機能を備えた包括的な相関分析ツール。
 - 複雑なデータを容易に解釈できるカテゴリカルデータのための高度なプロットテクニック。
 
-データ分析を始めたばかりの方も、スキルを磨きたい方も、このリポジトリがあなたのためのリソースです。私たちのRコードコレクションで、探求し、実験し、データストーリーテリングを強化しましょう！
